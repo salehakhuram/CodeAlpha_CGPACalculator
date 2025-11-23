@@ -19,7 +19,7 @@ Shows a detailed breakdown of each course, grade, and credit hours.
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/gpa-cgpa-calculator.git
+git clone https://github.com/salehakhuram/CodeAlpha_CGPACalculator
 Open the project in any C++ IDE (e.g., Code::Blocks, Visual Studio, or Dev C++).
 Compile and run main.cpp.
 
